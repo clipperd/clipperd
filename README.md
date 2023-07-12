@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel Clipper 
-- 🚌 I'm a Data Analyst Fellow at Dollaride, Inc. 
-- 🎓 I’m a recent graudate of Carleton College with a BA in Statistics 
-- 👀 I’m interested in sports analytics and looking for opportunity to get experience in the sports world 
+- 🚌 I'm a Marketing Analystics and Insights Analyst at Kepler Group 
+- 🎓 I have a BA in Statistics from Carleton College
 - 📫 How to reach me: dclipper21@gmail.com, +1 (704) 928-9036, linkedin.com/in/daniel-clipper
 
 <!---
