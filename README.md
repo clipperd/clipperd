@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Clipper 
-- 🚌 I'm a Marketing Analystics and Insights Analyst at Kepler Group 
-- 🎓 I have a BA in Statistics from Carleton College
+- 🚌 Formerly Lead Analyst of media experimentation at FanDuel 
+- 🎓 I have a BA in statistics from Carleton College
 - 📫 How to reach me: dclipper21@gmail.com, +1 (704) 928-9036, linkedin.com/in/daniel-clipper
 
 <!---
